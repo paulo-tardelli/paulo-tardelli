@@ -4,7 +4,7 @@
 **Hello there!**<br />
 I'm a brazilian **UX/UI Designer** and **Front-end student**.
 - :round_pushpin: Living in Maringá/PR;
-- :briefcase: Working at [VG Educacional](https://www.vgeducacional.com/);
+- :briefcase: Working at [B42](https://www.b42.com.br/);
 - :computer: Trying to be a good web developer.
 
 -----
